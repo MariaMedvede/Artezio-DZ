@@ -1,3 +1,4 @@
 Class Tea
 {
+private int Price;
 };
